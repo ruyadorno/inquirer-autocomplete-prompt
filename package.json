@@ -1,14 +1,14 @@
 {
   "name": "inquirer-autocomplete-prompt-ipt",
   "description": "Inquirer autocomplete prompt fork, optimized for ipt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": [
     "index.js"
   ],
   "dependencies": {
-    "ansi-escapes": "^2.0.0",
+    "ansi-escapes": "^1.0.0",
     "chalk": "^1.0.0",
-    "figures": "^2.0.0",
+    "figures": "^1.0.0",
     "inquirer": "^1.0.0",
     "run-async": "^2.2.0",
     "util": "^0.10.3"
