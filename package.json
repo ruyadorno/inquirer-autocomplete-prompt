@@ -1,7 +1,7 @@
 {
   "name": "inquirer-autocomplete-prompt-ipt",
   "description": "Inquirer autocomplete prompt fork, optimized for ipt",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "files": [
     "index.js"
   ],
